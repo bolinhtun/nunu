@@ -1,0 +1,95 @@
+.inputType {
+    width: 300px;
+    margin-left: 400px;
+    margin-top: 30px;
+    border-radius: 20px;
+    border-color: aqua;
+    border-style: double;
+}
+
+.input2 {
+    width: 300px;
+    margin-left: 400px;
+    margin-top: 30px;
+    border-radius: 20px;
+    border-color: aqua;
+    border-style: double;
+}
+
+.text {
+    color: aqua;
+}
+
+.button {
+    margin-left: 500px;
+    margin-top: 30px;
+}
+
+.date {
+    color: rgb(237, 46, 62);
+    font-size: 30px;
+    cursor: pointer;
+    user-select: none;
+    font-style: italic;
+}
+
+.name {
+    color: rgb(19, 19, 20);
+    cursor: pointer;
+    user-select: none;
+}
+
+.yamaha {
+    width: 300px;
+}
+
+.box {
+    display: flex;
+    margin-left: 40px;
+    flex-direction: column;
+    width: 500px;
+}
+
+.topdiv {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    user-select: none;
+    cursor: pointer;
+    color: blue;
+    font-size: 20px;
+    font-style: italic;
+}
+
+.blue {
+    height: 6px;
+    background-color: blue;
+}
+
+.dd {
+    background-color: rgb(40, 38, 38);
+    width: 400px;
+    height: 40px;
+    font-size: 20px;
+    padding: 10px;
+}
+
+.black {
+    background-color: black;
+    width: 1000px;
+}
+
+.blackDivdd {
+    display: flex;
+    flex-direction: row;
+}
+
+a:link {
+    text-decoration-line: none;
+    ;
+}
+
+a:hover {
+    color: blanchedalmond;
+    background-color: rgb(30, 34, 238);
+}
